@@ -73,6 +73,8 @@ GUI applications built using Tkinter for real-world use cases.
 ## 📫 Connect With Me
 - 🔗 LinkedIn: https://www.linkedin.com/in/zeeshanahmednoonari/
 - 💻 GitHub: https://github.com/ZeeshanAhmed215
+- 💻 Hacker Rank: https://www.hackerrank.com/profile/zahmednoonari
+- 💻 Leet Code: https://leetcode.com/u/Zeeshan_Ahmed_Noonari/
 
 ---
 
