@@ -1,8 +1,8 @@
 # Hi, I'm Zeeshan Ahmed 👋  
-🚀 Python Developer | Django Learner | Automation & Management Systems
+🚀 Python Developer | Machine Learning | Automation & Management Systems
 
 I am a passionate **Python developer** focused on building **real-world applications**, automation tools, and management systems.  
-Currently learning **Django** to build scalable web applications and SaaS products.
+Currently learning **Machine Learning** to build scalable web applications and SaaS products.
 
 ## 🛠️ Skills & Libraries
 
