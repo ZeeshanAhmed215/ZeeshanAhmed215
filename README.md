@@ -1,8 +1,11 @@
  # Hi, I'm Zeeshan Ahmed 👋  
 🚀 Python Developer | Machine Learning | Automation & Management Systems
 
-I am a passionate **Python developer** focused on building **real-world applications**, automation tools, and management systems.  
-Currently learning **Machine Learning** to build scalable web applications and SaaS products.
+### 👨‍💻 About Me
+I am a motivated **BS Artificial Intelligence student** at **Dawood University of Engineering & Technology (DUET)** My technical journey is built on a strong foundation of **Python programming**, where I specialize in transforming complex data into actionable insights through visualization and building efficient, automated systems.
+
+Currently, I am deep-diving into **Machine Learning** and **Deep Learning** to bridge the gap between theoretical AI concepts and real-world software solutions. I am actively seeking an internship or entry-level opportunity where I can contribute my expertise in software development, AI, and data-driven projects to solve impactful industry challenges.
+
 
 ## 🛠️ Skills & Libraries
 
@@ -15,6 +18,7 @@ Currently learning **Machine Learning** to build scalable web applications and S
 ### 📚 Python Libraries & Frameworks
 ![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F8ACB?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-0A66C2?style=for-the-badge)
@@ -32,6 +36,7 @@ Currently learning **Machine Learning** to build scalable web applications and S
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ---
 
@@ -70,12 +75,21 @@ GUI applications built using Tkinter for real-world use cases.
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/zeeshanahmednoonari/
-- 💻 GitHub: https://github.com/ZeeshanAhmed215
-- 💻 Hacker Rank: https://www.hackerrank.com/profile/zahmednoonari
-- 💻 Leet Code: https://leetcode.com/u/Zeeshan_Ahmed_Noonari/
-
+### 📫 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/zeeshanahmednoonari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/ZeeshanAhmed215" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/zahmednoonari" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://leetcode.com/u/Zeeshan_Ahmed_Noonari/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 ---
 
 ⭐ *Feel free to explore my repositories and connect with me!*
