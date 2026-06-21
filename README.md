@@ -1,61 +1,81 @@
-<h1 align="center">Hi, I'm Zeeshan Ahmed 👋</h1>
-<p align="center">
-  🚀 <b>Python Developer | Machine Learning Enthusiast | Backend Architect</b>
-</p>
+ # Hi, I'm Zeeshan Ahmed 👋  
+🚀 Python Developer | Machine Learning | Automation & Management Systems
 
-<p align="center">
-  <i>Building scalable web applications, intelligent automation, and management systems.</i>
-</p>
+I am a passionate **Python developer** focused on building **real-world applications**, automation tools, and management systems.  
+Currently learning **Machine Learning** to build scalable web applications and SaaS products.
 
-<br>
+## 🛠️ Skills & Libraries
 
-### 👨‍💻 About Me
-I am a passionate <b>Python Developer</b> focused on building real-world applications and intelligent tools. I bridge the gap between robust backend development and AI-driven solutions to create impactful SaaS products. Currently deep-diving into <b>Machine Learning</b> to bring predictive intelligence to web-based systems.
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<br>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeeshanAhmed215&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeeshanAhmed215&layout=compact&theme=radical&hide_border=true" />
-</p>
+---
 
-<br>
+### 📚 Python Libraries & Frameworks
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![CustomTkinter](https://img.shields.io/badge/CustomTkinter-1F8ACB?style=for-the-badge)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-0A66C2?style=for-the-badge)
 
-### 🛠 Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+---
 
-<br>
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 📂 Featured Projects
-* **Academy Management System**: A comprehensive system for academic lifecycle management.
-* **AI-Driven SaaS Prototypes**: Building modular web applications integrating machine learning.
-* **Stack-Based HTML Parser**: High-performance parsing logic for data extraction.
-* **Desktop-to-Web Migrations**: Converting legacy Python/Tkinter tools into modern web environments.
+---
 
-<br>
+### 🧰 Tools & IDEs
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🎯 Current Focus
-* Architecting scalable web applications with <b>Django</b> and <b>FastAPI</b>.
-* Applying <b>Machine Learning</b> models to real-world datasets.
-* Learning containerization (Docker/Kubernetes) for production deployment.
+---
 
-### 📫 Connect With Me
-| Platform | Link |
-| :--- | :--- |
-| **LinkedIn** | [Zeeshan Ahmed](https://www.linkedin.com/in/zeeshanahmednoonari/) |
-| **LeetCode** | [Zeeshan_Ahmed_Noonari](https://leetcode.com/u/Zeeshan_Ahmed_Noonari/) |
-| **HackerRank** | [zahmednoonari](https://www.hackerrank.com/profile/zahmednoonari) |
+### 📖 Concepts
+![Data Structures](https://img.shields.io/badge/Data_Structures-0A66C2?style=for-the-badge)
+![OOP](https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge)
+![DBMS](https://img.shields.io/badge/DBMS-673AB7?style=for-the-badge)
 
-<br>
 
-<p align="center">
-  <i>⭐ Feel free to explore my repositories and reach out for collaborations!</i>
-</p>
+## 📂 Featured Projects
+🔹 **Academy Management System**  
+A Python-based system to manage students, teachers, courses, and fees.  
+➡️ https://github.com/ZeeshanAhmed215
+
+🔹 **Stack-Based HTML Parser**  
+Advanced HTML parsing using Python and stack data structures.
+
+🔹 **Python Desktop Applications**  
+GUI applications built using Tkinter for real-world use cases.
+
+---
+
+## 🎯 Current Focus
+- Learning **Django Web Development**
+- Converting desktop apps into **web-based systems**
+- Building projects for **freelancing & remote work**
+- Improving GitHub portfolio & documentation
+
+---
+
+## 💼 Open To
+- Freelance Python projects
+- Django backend development
+- Automation & scripting tasks
+- Management system development
+
+---
+
+## 📫 Connect With Me
+- 🔗 LinkedIn: https://www.linkedin.com/in/zeeshanahmednoonari/
+- 💻 GitHub: https://github.com/ZeeshanAhmed215
+- 💻 Hacker Rank: https://www.hackerrank.com/profile/zahmednoonari
+- 💻 Leet Code: https://leetcode.com/u/Zeeshan_Ahmed_Noonari/
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*
