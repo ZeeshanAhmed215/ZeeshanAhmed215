@@ -19,107 +19,18 @@ mathematics, and programming can be combined to solve real-world problems.
 - 🗄️ **SQL & Databases** — Managing structured data and developing efficient database solutions
 - 🚀 **End-to-End Solutions** — Turning business requirements and ideas into functional, maintainable applications
 ---
+<h2>🛠️ Technologies & Tools</h2>
 
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,latex" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50" alt="Matplotlib"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+     width="50"
+     height="50"
+     alt="Scikit-learn"/>
 </p>
 
-### 📊 Data Analysis & Visualization
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white">
-</p>
 
-### 🤖 Machine Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-</p>
-
-### 🔧 Tools & Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 Machine Learning & Deep Learning
-
-A collection of my learning journey, implementations, experiments,
-and projects in Machine Learning and Deep Learning.
-
-**Technologies:** Python • NumPy • Pandas • Matplotlib • Machine Learning
-
-🔗 [View Repository](https://github.com/ZeeshanAhmed215)
-
----
-
-### 🌦️ WeatherNow
-
-A weather application designed to combine **Python GUI development,
-APIs, databases, and data visualization**.
-
-#### Planned Features
-
-- 🌤️ Current weather information
-- 📅 5-day weather forecast
-- 🌡️ Minimum & maximum temperature
-- 📊 Temperature visualization
-- 🏙️ Multiple city support
-- 🔔 Weather alerts
-- 📧 Email notifications
-- 🗄️ MySQL database
-- 🌓 Dark / Light mode
-- 🎨 Dynamic weather interface
-
-**Technologies:** Python • CustomTkinter • MySQL • API • Matplotlib
-
----
-
-### 📊 Data Analysis Projects
-
-Practical projects focused on exploring datasets, cleaning data,
-handling missing values, analyzing patterns, and creating visualizations.
-
-**Technologies:** Python • Pandas • NumPy • Matplotlib
-
----
-
-## 📚 Currently Learning
-
-```text
-Python
-  └── Advanced Python Concepts
-        ↓
-Data Analysis
-  ├── NumPy
-  ├── Pandas
-  └── Matplotlib
-        ↓
-Mathematics for ML
-  ├── Linear Algebra
-  ├── Statistics
-  ├── Probability
-  └── Calculus
-        ↓
-Machine Learning
-  ├── Regression
-  ├── Classification
-  ├── Unsupervised Learning
-  └── Model Evaluation
-        ↓
-Deep Learning
