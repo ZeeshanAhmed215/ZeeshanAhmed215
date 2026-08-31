@@ -3,38 +3,21 @@
 </p>
 <h1 align="center">Hi 👋, I'm Zeeshan Ahmed</h1>
 
-<h3 align="center">
-Computer Science Student | Python Developer | Data Analysis & Machine Learning Enthusiast
-</h3>
-
-<p align="center">
-  <a href="https://github.com/ZeeshanAhmed215">
-    <img src="https://img.shields.io/badge/GitHub-ZeeshanAhmed215-181717?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://leetcode.com/u/Zeeshan_Ahmed_Noonari/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode">
-  </a>
-</p>
-
 ---
-
 ## 👨‍💻 About Me
 
-Hello! I'm **Zeeshan Ahmed**, a Computer Science student passionate about
+I am a Artificial Intelligence student passionate about
 **Python, Data Analysis, Machine Learning, and Software Development**.
 
 I enjoy learning by building practical projects and exploring how data,
 mathematics, and programming can be combined to solve real-world problems.
 
-- 🐍 Developing my skills in **Python**
-- 📊 Learning **Data Analysis & Data Visualization**
-- 🤖 Exploring **Machine Learning & Deep Learning**
-- 🧮 Studying the **mathematics behind Machine Learning**
-- 🗄️ Practicing **SQL & database concepts**
-- 💻 Improving my **problem-solving and programming skills**
-- 🚀 Building projects to turn what I learn into practical experience
-- 📚 Continuously learning new technologies and tools
-
+- 🐍 **Python Development** — Building practical applications, automation tools, and data-driven solutions
+- 📊 **Data Analysis** — Cleaning, transforming, and analyzing data to extract meaningful insights
+- 📈 **Data Visualization** — Creating informative visualizations and analytical reports for better decision-making
+- 🤖 **Machine Learning** — Developing predictive models and data-driven solutions for real-world problems
+- 🗄️ **SQL & Databases** — Managing structured data and developing efficient database solutions
+- 🚀 **End-to-End Solutions** — Turning business requirements and ideas into functional, maintainable applications
 ---
 
 ## 🛠️ Technical Skills
