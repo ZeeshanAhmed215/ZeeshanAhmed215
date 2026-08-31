@@ -33,4 +33,39 @@ mathematics, and programming can be combined to solve real-world problems.
 </p>
 
 
+### 📫 Connect With Me
 
+<p align="left">
+
+  <a href="https://www.linkedin.com/in/zeeshanahmednoonari/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         width="45"
+         height="45"
+         alt="LinkedIn"/>
+<a href="mailto:codewithzees@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail"
+       width="45"
+       height="45"
+       alt="Email"/>
+</a>
+</a>
+<a href="https://www.hackerrank.com/profile/zahmednoonari" target="_blank">
+  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/simple-icons/hackerrank.svg"
+       width="45"
+       height="45"
+       alt="HackerRank"/>
+</a>
+  </a>
+
+  <a href="https://leetcode.com/u/Zeeshan_Ahmed_Noonari/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg"
+         width="45"
+         height="45"
+         alt="LeetCode"/>
+  </a>
+
+</p>
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
